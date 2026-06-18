@@ -1,0 +1,13 @@
+﻿data/raw/flights/flights.csv
+data/raw/flights/flights_filtered.csv
+data/raw/weather/temperature.csv
+data/raw/weather/humidity.csv
+data/raw/weather/wind_speed.csv
+data/raw/weather/pressure.csv
+data/raw/weather/weather_description.csv
+data/raw/weather/city_attributes.csv
+data/raw/weather/wind_direction.csv
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
